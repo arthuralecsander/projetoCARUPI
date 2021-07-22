@@ -121,7 +121,7 @@ Filtra pela versao
 	versao
 
 ------------
-Filtra pelo ano, podendo ser range. Caso coloque apenas anoInicio, ele ira fazer crescente daquela ano, caso anoFim decrescente e juntos fara entre as datas.
+Filtra pelo ano, podendo ser range. Caso coloque apenas anoInicio, ele ira fazer crescente daquela ano, caso anoFim decrescente e juntos fara entre os anos.
 
 	anoInicio
 	anoFim
